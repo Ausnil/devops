@@ -1,4 +1,5 @@
 <p>
+	Real timer
 	Example timer in PHP
 </p>
 
